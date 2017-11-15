@@ -27,6 +27,7 @@ $("button.reset").click(function () {
 	refreshTimer();
 	$("input.time").val("");
 	isBreak = false;
+	$("div.breakTime").hide();
 });
 
 $("button.5min-break").click(function () {
