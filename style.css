@@ -1,0 +1,18 @@
+div.container {
+	padding-top: 100px;
+}
+div.timer {
+	marign-top: 100px;
+}
+p.time {
+	font-size: 40pt;
+}
+input.time {
+	width: 60px;
+}
+div.buttons > button {
+	margin-left: 10px;
+}
+div.breakTime {
+	margin-top: 30px;
+}
